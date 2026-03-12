@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Be proud of your work",
+        "des": "Work on the best products on the market and strive for more with A-team colleagues.",
+        "icPath": "/img/58-icon-products.png"
+    },
+    {
+        "title": "Get top rate pay",
+        "des": "High income with advanced bonus programs (performance-based, marriage and baby etc.) and premium pay for extra-mile work.",
+        "icPath": "/img/61-icon-bonus.png"
+    },
+    {
+        "title": "Feel comfortable",
+        "des": "Work the way you like with a workplace equipped for you, and snacks at hand.",
+        "icPath": "/img/59-icon-office.png"
+    },
+    {
+        "title": "Always learn and grow",
+        "des": "English lessons, conferences tickets, professional literature, and more study opportunities.",
+        "icPath": "/img/60-icon-goales.png"
+    },
+    {
+        "title": "Enjoy your life",
+        "des": "Sports compensation, health insurance, extended vacation, paid sick leave, and other ways that we care about you.",
+        "icPath": "/img/62-icon-enjoy.png"
+    },
+    {
+        "title": "Have fun with us",
+        "des": "Monthly corporate parties, team events, game zone, a lounge where you can relax and chat daily.",
+        "icPath": "/img/63-events.png"
+    }
+]
