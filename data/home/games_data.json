@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Bubble Shooter",
+        "longName": "Shoot bubbles with Vikings",
+        "description": "Show off your bubbles popping skills within Bubble Shooter! Tap to switch and release to shoot! There're all colors of shining bubbles💫, powerful boosters💥 and tons of gorgeous maps diliver you to a new dreamy bubbling world!",
+        "iconPath": "games-assets/icon-1.jpeg",
+        "thumnailImg": "games-assets/game-1.png"
+    },
+    {
+        "name": "House Cleaning",
+        "longName": "Messy House Cleaning",
+        "description": "Keep home clean tasks to clean the doll house to make it the most clean dollhouse. Cleaning doll house game for girls to clean up.",
+        "iconPath": "games-assets/icon-2.png",
+        "thumnailImg": "games-assets/game-2.png"
+    },
+    {
+        "name": "Big Farm",
+        "longName": "Free Farming Game",
+        "description": "Big Farm: Mobile Harvest is a Free Farm Simulator Game that you can play online with friends, family, and other farmers around the world. Build your own community and enjoy the 🚜 farming life experience of your dreams. 🚜",
+        "iconPath": "games-assets/icon-3.png",
+        "thumnailImg": "games-assets/game-3.png"
+    },
+    {
+        "name": "Bubble Shooter Ocean",
+        "longName": "Bubble Shooter Ocean",
+        "description": "Bubble Shooter games are always funny, so if you are trying to find free game to play on your phone or tablet you are in the right place and about to have good mood and explore ocean bubble world.",
+        "iconPath": "games-assets/icon-4.png",
+        "thumnailImg": "games-assets/game-4.jpeg"
+    }
+]
